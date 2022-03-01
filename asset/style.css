@@ -18,11 +18,11 @@
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
-    /* position: absolute; */
 }
 
 .logo-returnal{
-    /* position: relative; */
+    width: 400px;
+    margin-top: 400px;
 }
 
 .it-takes-two{
@@ -33,8 +33,10 @@
     background-position: center;
 }
 
-
-
 .blu{
     color: blue;
+}
+
+.logo-it-takes-two{
+    width: 30%;
 }
