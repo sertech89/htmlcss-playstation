@@ -14,8 +14,8 @@
 
 .returnal{
     background-image: url(./img/returnal-listing-thumb-01-ps5.jpg);
-    height: 500px;
+    height: 80vh;
     background-size: cover; 
     background-repeat: no-repeat;
-
+    background-position: center;
 }
