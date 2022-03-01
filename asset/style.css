@@ -18,12 +18,10 @@
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
+    padding-left: 20px;
+    padding-top:200px;
 }
 
-.logo-returnal{
-    width: 400px;
-    margin-top: 400px;
-}
 
 .it-takes-two{
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
@@ -31,6 +29,12 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+.console-playstation{
+    padding-top: 80px;
 }
 
 .blu{
