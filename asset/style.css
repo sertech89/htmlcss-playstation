@@ -1,6 +1,9 @@
+.rounded {
+    border-radius: 1.25rem!important;
+}
+
 .sony {
     height: 20px;
-
 }
 
 .barra-nav {
@@ -30,7 +33,7 @@
 
 
 .blu {
-    color: blue;
+    color: rgba(55,106,230,255);
 }
 
 .logo-it-takes-two {
@@ -68,3 +71,13 @@
 .list-type-none{
     list-style-type: none;
 }
+
+.text-decoration-none{
+    text-decoration: none;
+    color: black;
+}
+
+.border-bottom{
+    border-bottom:solid blue 5px;
+}
+
