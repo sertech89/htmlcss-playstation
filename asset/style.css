@@ -1,7 +1,6 @@
-
-.sony{
+.sony {
     height: 20px;
-    
+
 }
 
 .barra-nav {
@@ -9,60 +8,59 @@
     color: white;
 }
 
-.returnal{
+.returnal {
     background-image: url(./img/jumbo-bg.png);
     height: 80vh;
-    background-size: cover; 
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding-left: 20px;
-    padding-top:200px;
+    padding-top: 200px;
 }
 
-
-#it_takes_two{
+.it-takes-two {
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    padding-top: 100px;
     padding-left: 20px;
+    padding-top: 200px;
 }
 
 
-.blu{
+.blu {
     color: blue;
 }
 
-.logo-it-takes-two{
-    height: 150px;
+.logo-it-takes-two {
+    height: 100px;
 }
 
-.sfondo-giochi-nero{
+.sfondo-giochi-nero {
     background-color: black;
 }
 
-.ps_plus{
-    background-color: rgba(190,188,187,255);
+.ps_plus {
+    background-color: rgba(190, 188, 187, 255);
 }
 
-.ps-plus-logo{
+.ps-plus-logo {
     height: 50px;
 }
 
-.sfondo-ps-now{
-    background-color: rgba(22,28,59,255);
+.sfondo-ps-now {
+    background-color: rgba(22, 28, 59, 255);
 }
 
-.img-settanta{
+.img-settanta {
     max-width: 80%;
 }
 
-.footer{
-    background-color: rgba(0,67,156,255);
+.footer {
+    background-color: rgba(0, 67, 156, 255);
 }
 
-.logo-rombo{
+.logo-rombo {
     max-width: 200px;
 }
