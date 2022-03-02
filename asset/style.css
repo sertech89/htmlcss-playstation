@@ -1,6 +1,3 @@
-.barra-black{
-    background-color: black;
-}
 
 .sony{
     height: 20px;
@@ -23,7 +20,7 @@
 }
 
 
-.it-takes-two{
+#it_takes_two{
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     height: 80vh;
     background-size: cover;
@@ -33,14 +30,23 @@
     padding-left: 20px;
 }
 
-.console-playstation{
-    padding-top: 80px;
-}
 
 .blu{
     color: blue;
 }
 
 .logo-it-takes-two{
-    width: 30%;
+    height: 150px;
+}
+
+.sfondo-giochi-nero{
+    background-color: black;
+}
+
+.ps_plus{
+    background-color: rgba(190,188,187,255);
+}
+
+.ps-plus-logo{
+    height: 50px;
 }
