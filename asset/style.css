@@ -56,9 +56,6 @@
     background-color: rgba(22, 28, 59, 255);
 }
 
-.img-settanta {
-    max-width: 80%;
-}
 
 .footer {
     background-color: rgba(0, 67, 156, 255);
@@ -81,3 +78,7 @@
     border-bottom:solid blue 5px;
 }
 
+.container_custom_sm{
+    max-width: 50%;
+    margin: 0 auto;
+}
