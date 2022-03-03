@@ -1,5 +1,5 @@
 .rounded {
-    border-radius: 1.25rem!important;
+    border-radius: 1.25rem !important;
 }
 
 .sony {
@@ -9,6 +9,75 @@
 .barra-nav {
     background-color: rgba(44, 62, 80, 255);
     color: white;
+}
+
+/* .btn-inset:hover,
+.btn-active:active,
+.btn-inset:focus{
+    border: 2px solid rgba(var(--font-base-color), 0.5);
+    box-shadow: inset 0px 0px 0px 2px rgb(var(--font-light-color));
+}
+
+.btn-dark:hover{
+    color: #fff;
+    background-color: #1c1f23;
+    border-color: #1a1e21;
+} */
+
+
+
+
+/* INIZIO PROVA BUTTON*/
+
+/* btn-1 */
+
+.border-button1 {
+    outline: solid 5px rgba(55, 106, 230, 255);
+    transition: outline 0.6s linear;
+    margin: 0.5em;
+    /* Increased margin since the outline expands outside the element */
+}
+
+.border-button1:hover {
+    outline-width: 10px;
+}
+
+/* btn-2 */
+
+.border-button2 {
+    outline: solid 5px #FC5185;
+    transition: outline 0.6s linear;
+    margin: 0.5em;
+    /* Increased margin since the outline expands outside the element */
+}
+
+.border-button2:hover {
+    outline-width: 10px;
+}
+
+
+/* btn-3 */
+
+.border-button3 {
+    outline: solid 5px rgba(44, 62, 80, 255);
+    transition: outline 0.6s linear;
+    margin: 0.5em;
+    /* Increased margin since the outline expands outside the element */
+}
+
+.border-button3:hover {
+    outline-width: 10px;
+}
+
+
+
+
+/* FINE PROVA BUTTON */
+
+
+.img-game:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
 }
 
 .returnal {
@@ -33,7 +102,7 @@
 
 
 .blu {
-    color: rgba(55,106,230,255);
+    color: rgba(55, 106, 230, 255);
 }
 
 .logo-it-takes-two {
@@ -65,37 +134,36 @@
     max-width: 200px;
 }
 
-.list-type-none{
+.list-type-none {
     list-style-type: none;
 }
 
-.text-decoration-none{
+.text-decoration-none {
     text-decoration: none;
     color: black;
 }
 
-.container_custom_sm{
+.container_custom_sm {
     max-width: 50%;
     margin: 0 auto;
 }
 
-.border_bottom_active{
-    border-bottom:1px solid #0d6efd
+.border_bottom_active {
+    border-bottom: 1px solid #0d6efd
 }
 
 /* .border_hover{
     border-bottom:1px solid #0d6efd 
 } */
 
-.border_hover:hover{
-    border-bottom:1px solid #0d6efd 
-
+.border_hover:hover {
+    border-bottom: 1px solid #0d6efd
 }
 
-.accessori:hover{
+.accessori:hover {
     opacity: 100%;
 }
 
-.accessori{
+.accessori {
     opacity: 50%;
 }
